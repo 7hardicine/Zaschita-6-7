@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zaschita 6-7", "Zaschita 6-7\Zaschita 6-7.vcxproj", "{BFE38A67-A7B7-4781-A496-DE1A3D67EFF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE38A67-A7B7-4781-A496-DE1A3D67EFF1}.Debug|x64.ActiveCfg = Debug|x64
+		{BFE38A67-A7B7-4781-A496-DE1A3D67EFF1}.Debug|x64.Build.0 = Debug|x64
+		{BFE38A67-A7B7-4781-A496-DE1A3D67EFF1}.Debug|x86.ActiveCfg = Debug|Win32
+		{BFE38A67-A7B7-4781-A496-DE1A3D67EFF1}.Debug|x86.Build.0 = Debug|Win32
+		{BFE38A67-A7B7-4781-A496-DE1A3D67EFF1}.Release|x64.ActiveCfg = Release|x64
+		{BFE38A67-A7B7-4781-A496-DE1A3D67EFF1}.Release|x64.Build.0 = Release|x64
+		{BFE38A67-A7B7-4781-A496-DE1A3D67EFF1}.Release|x86.ActiveCfg = Release|Win32
+		{BFE38A67-A7B7-4781-A496-DE1A3D67EFF1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63672FB1-0D23-4D75-8944-6886C871069D}
+	EndGlobalSection
+EndGlobal
